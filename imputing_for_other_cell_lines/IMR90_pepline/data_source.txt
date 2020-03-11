@@ -1,0 +1,9 @@
+H3K9ac: https://www.encodeproject.org/experiments/ENCSR219MYH/
+H3K27ac: https://www.encodeproject.org/experiments/ENCSR002YRE/
+H3K27me3: https://www.encodeproject.org/experiments/ENCSR431UUY/
+H3K4me3: https://www.encodeproject.org/experiments/ENCSR087PFU/
+H3K4me1: https://www.encodeproject.org/experiments/ENCSR831JSP/
+H3K36me3: https://www.encodeproject.org/experiments/ENCSR437ORF/
+CTCF: https://www.encodeproject.org/experiments/ENCSR000EFI/
+ATAC_seq: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3289969
+
